@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Partner studios in South Delhi</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<style type="text/css">
+    /* CLIENT-SPECIFIC STYLES */
+    #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+    .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+    body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+    table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+    img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+    /* RESET STYLES */
+    body{margin:0; padding:0;}
+    img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+    table{border-collapse:collapse !important;}
+    body{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+    /* iOS BLUE LINKS */
+    .appleBody a {color:#68440a; text-decoration: none;}
+    .appleFooter a {color:#999999; text-decoration: none;}
+
+    /* MOBILE STYLES */
+    @media screen and (max-width: 600px) {
+
+        /* ALLOWS FOR FLUID TABLES */
+        table[class="wrapper"]{
+          width:100% !important;
+        }		
+				
+		.separator{
+			padding: 15px 0px !important;
+		}
+		
+		table ul li{
+          text-align: center;
+        }
+		
+		.map-location{
+          margin-top: 20px;
+		  display: block;
+        }
+		
+
+        /* ADJUSTS LAYOUT OF LOGO IMAGE */
+        td[class="logo"]{
+          padding: 20px 0 20px 0 !important;
+        }
+
+        td[class="logo"] img{
+          margin:0 auto!important;
+        }
+
+        /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+        td[class="mobile-hide"]{
+          display:none;}
+
+        img[class="mobile-hide"]{
+          display: none !important;
+        }
+
+        img[class="img-max"]{
+          max-width: 100% !important;
+          width: 100% !important;
+          height:auto !important;
+        }
+
+        /* FULL-WIDTH TABLES */
+        table[class="responsive-table"]{
+          width:100%!important;
+        }
+
+        /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+        td[class="padding"]{
+          padding: 10px 5% 15px 5% !important;
+        }
+
+        td[class="padding-copy"]{
+          padding: 0!important;
+          text-align: center;
+        }
+
+        td[class="padding-meta"]{
+          padding: 30px 5% 0px 5% !important;
+          text-align: center;
+        }
+
+        td[class="no-pad"]{
+          padding: 0 0 20px 0 !important;
+        }
+
+        td[class="no-padding"]{
+          padding: 0 !important;
+        }
+
+        td[class="section-padding"]{
+          padding: 10px 15px 10px 15px !important;
+        }
+
+        td[class="section-padding-bottom-image"]{
+          padding: 50px 15px 0 15px !important;
+        }
+
+        /* ADJUST BUTTONS ON MOBILE */
+        td[class="mobile-wrapper"]{
+            padding: 0!important;
+        }
+
+        table[class="mobile-button-container"]{
+            margin:0 auto;
+            width:100% !important;
+        }
+
+        a[class="mobile-button"]{
+            width:80% !important;
+            padding: 15px !important;
+            border: 0 !important;
+            font-size: 16px !important;
+        }
+		
+		.connect-us-wrapper{
+			padding: 10px 0!important
+		}
+		
+		.connect-us{
+			display: block;
+			margin: 0 auto;
+			width: 80px;
+		}
+		
+		.site-contact{
+			text-align: center!important;
+			float: none!important;
+			padding: 10px 20px 20px 0px!important;
+		}
+		
+		.site-link{
+			padding: 0!important;
+			
+		}
+		
+		.main-box{
+			border: none!important;
+		}
+
+    }
+</style>
+</head>
+<body style="margin: 0; padding: 0;">
+<table border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto; border: 1px solid #aeaeae;" class="main-box">
+    <!-- HEADER -->
+	<tr>
+        <td bgcolor="#ffffff" align="center" style="padding: 20px 15px 20px 15px;" class="section-padding">
+            <table border="0" cellpadding="0" cellspacing="0" width="500" class="responsive-table">
+                <tr>
+                    <td>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              	<td class="padding-copy">
+                                    <a href="http://fitpass.co.in/" target="_blank">
+                    	                <img src="logo.jpg" width="93" height="37" border="0" alt="Insert alt text here" style="display: block; margin: 0 auto; color: #666666;  font-family: Helvetica, arial, sans-serif; font-size: 16px;">
+                                    </a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+	
+	<tr>
+        <td bgcolor="#FFF" align="center" style="padding: 0 15px;" class="section-padding">
+            <table border="0" cellpadding="0" cellspacing="0" width="600" class="responsive-table">
+                <tr>
+                    <td>
+                        <!-- BANNER -->
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td valign="top" style="padding: 0;" class="mobile-wrapper">
+                                    <!-- MAP -->
+                                    <table cellpadding="0" cellspacing="0" border="0" width="47%" align="left" class="responsive-table">
+                                        <tr>
+                                            <td style="padding: 0;" class="map">
+                                                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                    <tr>
+                                                        <td align="center" bgcolor="#FFF" valign="middle"><a href="https://fitpass.co.in/delhi-ncr/studio/" target="_blank"><img src="map.jpg" width="310" height="211" style="display: block; color: #666666; font-family: Helvetica, arial, sans-serif; font-size: 13px; width: 310px; height: 211px;" alt="Fluid images" border="0" class="img-max"></a></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- MAP LOCATION -->
+                                    <table cellpadding="0" cellspacing="0" border="0" width="47%" align="right" class="responsive-table">
+                                        <tr>
+                                            <td style="padding: 0;" class="map-location">
+                                                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                    <tr>
+                                                        <td align="center" bgcolor="#FFF" valign="middle"><a href="https://fitpass.co.in/delhi-ncr/studio/" target="_blank"><img src="map-location.jpg" width="198" height="203" style="display: block; color: #666666; font-family: Helvetica, arial, sans-serif; font-size: 13px; width: 198px; height: 203px;" alt="alt text here" border="0"></a></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+				
+				<tr>
+                    <td style="padding: 25px 0;" class="separator">
+						<hr style="border-top: 1px dotted #20cfb1;"/>
+					</td>
+                </tr>
+				
+				<tr>
+					<!-- POPULAR AREAS -->
+                    <td class="popular-class" style="padding: 0 0 15px 0; font-family: Arial, sans-serif; color: #000; font-size: 16px; font-weight: bold; text-align: center;">
+						POPULAR AREAS
+					</td>
+                </tr>
+				
+                <tr>
+                    <td>
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td valign="top" style="padding: 0;" class="mobile-wrapper">
+                                    <!-- LOGO & AREA 1 -->
+                                    <table cellpadding="0" cellspacing="0" border="0" width="47%" align="left" class="responsive-table">
+                                        <tr>
+                                            <td style="padding: 0;">
+                                                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                    <tr>
+                                                        <td align="center" style="padding: 0 0 15px 0; font-family: Georgia, sans-serif; font-size: 16px; text-transform: uppercase" bgcolor="#FFF"><a href="https://fitpass.co.in/delhi-ncr/malviya-nagar/" target="_blank" style="color: #000; text-decoration: none;">Malviya Nagar</a></td>
+                                                    </tr>
+													<tr>
+                                                        <td align="center" bgcolor="#FFF" valign="middle"><img src="anytime-fitness.jpg" width="279" height="153" style="display: block;  border: 1px solid #666666; font-family: Helvetica, arial, sans-serif; font-size: 13px; width: 279px; height: 153px;" alt="alt text here" border="0" class="img-max"></td>
+                                                    </tr>                                                   
+                                                    <tr>
+                                                        <td align="center" style="padding: 15px 0 0 0; font-family: Arial, sans-serif; color: #000; font-size: 15px; font-weight: bold; line-height: 20px;" bgcolor="#FFF"><span class="appleBody">Anytime Fitness</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" style="padding: 5px 0 30px; font-family: Arial, sans-serif; color: #666666; font-size: 15px; line-height: 20px;" bgcolor="#FFF"><a href="https://fitpass.co.in/delhi-ncr/malviya-nagar/" target="_blank" style="color: #20cfb1; text-decoration: none;">View more partners in Malviya Nagar</a></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- LOGO & AREA 2 -->
+                                    <table cellpadding="0" cellspacing="0" border="0" width="47%" align="right" class="responsive-table">
+                                        <tr>
+                                            <td style="padding: 0;">
+                                                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                    <tr>
+                                                        <td align="center" style="padding: 0 0 15px 0; font-family: Georgia, sans-serif; color: #000; font-size: 16px; text-transform: uppercase" bgcolor="#FFF"><a href="https://fitpass.co.in/delhi-ncr/east-of-kailash/" target="_blank" style="color: #000; text-decoration: none;">East Of Kailash</a></td>
+                                                    </tr>
+													<tr>
+                                                        <td align="center" bgcolor="#FFF" valign="middle"><img src="gold-gym.jpg" width="279" height="153" style="display: block;  border: 1px solid #666666; font-family: Helvetica, arial, sans-serif; font-size: 13px; width: 279px; height: 153px;" alt="alt text here" border="0" class="img-max"></td>
+                                                    </tr>                                                   
+                                                    <tr>
+                                                        <td align="center" style="padding: 15px 0 0 0; font-family: Arial, sans-serif; color: #000; font-size: 15px; font-weight: bold; line-height: 20px;" bgcolor="#FFF"><span class="appleBody">Gold's Gym</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" style="padding: 5px 0 30px; font-family: Arial, sans-serif; color: #666666; font-size: 15px; line-height: 20px;" bgcolor="#FFF"><a href="https://fitpass.co.in/delhi-ncr/east-of-kailash/" target="_blank" style="color: #20cfb1; text-decoration: none;">View more partners in East Of Kailash</a></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>								
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+				
+				<tr>
+                    <td>
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td valign="top" style="padding: 0;" class="mobile-wrapper">
+                                    <!-- LOGO & AREA 3 -->
+                                    <table cellpadding="0" cellspacing="0" border="0" width="47%" align="left" class="responsive-table">
+                                        <tr>
+                                            <td style="padding: 0;">
+                                                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                    <tr>
+                                                        <td align="center" style="padding: 0 0 15px 0; font-family: Georgia, sans-serif; color: #000; font-size: 16px; text-transform: uppercase" bgcolor="#FFF"><a href="http://fitpass.co.in/delhi-ncr/lajpat-nagar-part-1/" target="_blank" style="color: #000; text-decoration: none;">Lajpat Nagar</a></td>
+                                                    </tr>
+													<tr>
+                                                        <td align="center" bgcolor="#FFF" valign="middle"><img src="dda.jpg" width="279" height="153" style="display: block;  border: 1px solid #666666; font-family: Helvetica, arial, sans-serif; font-size: 13px; width: 279px; height: 153px;" alt="alt text here" border="0" class="img-max"></td>
+                                                    </tr>                                                   
+                                                    <tr>
+                                                        <td align="center" style="padding: 15px 0 0 0; font-family: Arial, sans-serif; color: #000; font-size: 15px; font-weight: bold; line-height: 20px;" bgcolor="#FFF"><span class="appleBody">Delhi Dance Academy</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" style="padding: 5px 0 30px; font-family: Arial, sans-serif; color: #666666; font-size: 15px; line-height: 20px;" bgcolor="#FFF"><a href="http://fitpass.co.in/delhi-ncr/lajpat-nagar-part-1/" target="_blank" style="color: #20cfb1; text-decoration: none;">View more partners in Lajpat Nagar</a></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- LOGO & AREA 4 -->
+                                    <table cellpadding="0" cellspacing="0" border="0" width="47%" align="right" class="responsive-table">
+                                        <tr>
+                                            <td style="padding: 0;">
+                                                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                    <tr>
+                                                        <td align="center" style="padding: 0 0 15px 0; font-family: Georgia, sans-serif; color: #000; font-size: 16px; text-transform: uppercase" bgcolor="#FFF"><a href="https://fitpass.co.in/delhi-ncr/green-park/" target="_blank" style="color: #000; text-decoration: none;">Green Park</a></td>
+                                                    </tr>
+													<tr>
+                                                        <td align="center" bgcolor="#FFF" valign="middle"><img src="ifitness.jpg" width="279" height="153" style="display: block;  border: 1px solid #666666; font-family: Helvetica, arial, sans-serif; font-size: 13px; width: 279px; height: 153px;" alt="alt text here" border="0" class="img-max"></td>
+                                                    </tr>                                                   
+                                                    <tr>
+                                                        <td align="center" style="padding: 15px 0 0 0; font-family: Arial, sans-serif; color: #000; font-size: 15px; font-weight: bold; line-height: 20px;" bgcolor="#FFF"><span class="appleBody">iFitness</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" style="padding: 5px 0 30px; font-family: Arial, sans-serif; color: #666666; font-size: 15px; line-height: 20px;" bgcolor="#FFF"><a href="https://fitpass.co.in/delhi-ncr/green-park/" target="_blank" style="color: #20cfb1; text-decoration: none;">View more partners in Green Park</a></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>								
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+				
+				<tr>
+                    <td>
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td valign="top" style="padding: 0;" class="mobile-wrapper">
+                                    <!-- LOGO & AREA 5 -->
+                                    <table cellpadding="0" cellspacing="0" border="0" width="47%" align="left" class="responsive-table">
+                                        <tr>
+                                            <td style="padding: 0;">
+                                                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                    <tr>
+                                                        <td align="center" style="padding: 0 0 15px 0; font-family: Georgia, sans-serif; color: #000; font-size: 16px; text-transform: uppercase" bgcolor="#FFF"><a href="https://fitpass.co.in/delhi-ncr/vasant-vihar/" target="_blank" style="color: #000; text-decoration: none;">Vasant Vihar</a></td>
+                                                    </tr>
+													<tr>
+                                                        <td align="center" bgcolor="#FFF" valign="middle"><img src="crush-fitness.jpg" width="279" height="153" style="display: block; border: 1px solid #666666; font-family: Helvetica, arial, sans-serif; font-size: 13px; width: 279px; height: 153px;" alt="alt text here" border="0" class="img-max"></td>
+                                                    </tr>                                                   
+                                                    <tr>
+                                                        <td align="center" style="padding: 15px 0 0 0; font-family: Arial, sans-serif; color: #000; font-size: 15px; font-weight: bold; line-height: 20px;" bgcolor="#FFF"><span class="appleBody">Crush Fitness</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" style="padding: 5px 0 30px; font-family: Arial, sans-serif; color: #666666; font-size: 15px; line-height: 20px;" bgcolor="#FFF"><a href="https://fitpass.co.in/delhi-ncr/vasant-vihar/" target="_blank" style="color: #20cfb1; text-decoration: none;">View more partners in Vasant Vihar</a></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>								
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+				
+				
+				<tr>
+					<!-- OTHER PARTNERS NEAR AREA -->
+                    <td style="padding: 15px 0 15px 0; font-family: Arial, sans-serif;  margin: 0; color: #000; font-size: 16px; font-weight: bold; text-align: center;">
+						OTHER PARTNERS NEAR SOUTH DELHI
+					</td>
+                </tr>
+				
+				<tr>
+                    <td>
+                        <!-- GYM LISTS -->
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td valign="top" style="padding: 0;" class="mobile-wrapper">
+                                    <table cellpadding="0" cellspacing="0" border="0" width="33%" align="left" class="responsive-table">
+                                         <tr>
+											<td>
+												<ul style="list-style:none; padding-left: 0; margin: 0 10px 20px 0; font-size: 11px; line-height: 22px; font-family: Helvetica, Arial, sans-serif;">
+												<li>3D The Gym Kalkaji</li>
+												<li>3D The Gym Saket</li>
+												<li>A Fitness Fact Kalkaji</li>
+												<li>Aakrit Dance Centre Saket</li>
+												<li>Aakriti Kala Mandir Jasola</li>
+												<li>Ballatino Dance Studio Saket</li>
+												<li>Being Fit Bhikaji Cama Place</li>
+												<li>Beyond Looks Vasant Vihar</li>
+												<li>Crush Fitness Adchini</li>
+												<li>Crush Fitness Green Park</li>
+												<li>iFitness Green Park</li>
+												<li>Leap Years Vasant Kunj</li>
+												<li>Moving Souls</li>
+												<li>Planet Fitness Malviya Nagar</li>
+												<li>Poorna Yoga Gulmohar Park</li>
+												</ul>
+											</td>
+										</tr>
+                                    </table>
+									
+                                    <table cellpadding="0" cellspacing="0" border="0" width="33%" align="left" class="responsive-table">
+                                         <tr>
+											<td>
+												<ul style="list-style:none; padding-left: 0; margin: 0 10px 20px 0; font-size: 11px; line-height: 22px; font-family: Helvetica, Arial, sans-serif;">
+												<li>Pha Salon East of Kailash</li>
+												<li>Prabhaav Green Park</li>
+												<li>Sach Artistic Academy RK Puram</li>
+												<li>Salsa India CR Park</li>
+												<li>Salsa India Jasola</li>
+												<li>Sanshinkan MMA Amar Colony</li>
+												<li>Satyam Kalashetra Sainik Farm</li>
+												<li>Say Fitness Amar Colony</li>
+												<li>Snap Fitness Greater Kailash 2</li>
+												<li>Snap Fitness Vasant Kunj</li>
+												<li>Soham Yoga Studio Gautam Nagar</li>
+												<li>Sparsh Entertainments Khanpur</li>
+												<li>Sparsh Entertainments Malviya Nagar</li>
+												<li>Sparsh Entertainments Sangam Vihar</li>
+												<li>Sports Fit Vasant Kunj</li>
+
+												</ul>
+											</td>	
+										</tr>
+                                    </table>
+									
+                                    <table cellpadding="0" cellspacing="0" border="0" width="33%" align="left" class="responsive-table">
+                                         <tr>
+											<td>
+												<ul style="list-style:none; padding-left: 0; margin: 0 10px 20px 0; font-size: 11px; line-height: 22px; font-family: Helvetica, Arial, sans-serif;">
+												<li>Tag Fitness Point Malviya Nagar</li>
+												<li>Talent Dance World East of Kailash</li>
+												<li>Tarana Art Music Malviya Nagar</li>
+												<li>Talwalkars</li>
+												<li>The Dance School RK Puram</li>
+												<li>The Gold Gym Saket</li>
+												<li>The Gold Gym Satya Niketan</li>
+												<li>The Yoga Class Shivalik</li>
+												<li>The Yoga Guru Jasola</li>
+												<li>The Yoga Studio Hauz Khas</li>
+												<li>Way 2 Fitness Lajpat Nagar</li>
+												<li>Yoga with Rumi Hauz Khas</li>
+												<li>Yogalife Andrews Ganj</li>
+												<li>Z Gym Jamia Nagar</li>
+												<li>Zenith Dance Academy Satya Niketan</li>													
+												</ul>
+											</td>
+										</tr>
+                                    </table>
+									
+                                </td>								
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+				
+				<tr>
+                    <td style="padding: 0 0 25px 0; font-family: Arial, sans-serif;  margin: 10px 0; color: #000; font-size: 12px; text-align: center;">
+						<a href="https://fitpass.co.in/delhi-ncr/studio/" target="_blank" style="color: #20cfb1; text-decoration: none">and many many more...</a>
+					</td>
+                </tr>
+				
+				<tr>
+                    <td style="padding: 0 0 15px 0; font-family: Arial, sans-serif;  margin: 30px 0; color: #000; font-size: 12px; text-align: center;">
+						<a href="https://fitpass.co.in/delhi-ncr/studio/" target="_blank" style="background: #20cfb1; color: #fff; text-decoration: none; padding: 10px; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px">EXPLORE MORE STUDIOS</a>
+					</td>
+                </tr>
+				
+				<tr>
+					<!-- BECOME COMMUNITY PART TEXT -->
+                    <td style="padding: 15px 0 35px 0; font-family: Arial, sans-serif;  margin: 10px 0; color: #000; font-size: 13px; text-align: center;">
+						Become a part of our community of <span style="color:#20cfb1; font-weight: bold">15,000+</b></span> fitpass enthusiasts
+					</td>
+                </tr>							
+            </table>
+        </td>
+    </tr>
+</table>
+	
+<table border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto;">
+	<td bgcolor="#ffffff" align="center" style="padding: 0 0;" class="section-padding">
+            <table border="0" cellpadding="0" cellspacing="0" width="630" class="responsive-table">		
+				<tr>
+					<!-- GET THE APP -->
+                    <td style="background: #000; padding: 15px 0 15px 0; font-family: Arial, sans-serif;  margin: 10px 0; color: #fff; font-size: 13px; text-align: center;">
+						<span style="margin-right: 10px">GET THE FIT<span style="color:#20cfb1;">PASS</span> APP <img src="arrow.jpg" valign="middle"/></span>			
+						<a href="https://itunes.apple.com/nz/app/fitpass/id1049745078?mt=8" target="_blank"><img src="apple.jpg" valign="middle"/></a>
+						<a href="https://play.google.com/store/apps/details?id=com.india.fitpass" target="_blank"><img src="android.jpg" valign="middle"/></a>
+					</td>
+                </tr>
+				
+				<tr>
+				
+                    <td>
+                        <!-- FOOTER -->
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td valign="top" style="padding: 0;" class="mobile-wrapper">
+                                    <!-- CONNECT US -->
+                                    <table cellpadding="0" cellspacing="0" border="0" width="33%" align="left" class="responsive-table">
+                                         <tr>
+											<td style="font-size: 11px; font-family: arial; color: #444; padding: 20px 0 20px 20px;" class="connect-us-wrapper">	
+												<div class="connect-us">
+													<span>Connect with us</span>
+													<a href="https://www.facebook.com/fitpassindia" target="_blank"><img src="facebook.jpg" valign="middle"/></a>
+													<a href="https://www.instagram.com/fitpassindia/" target="_blank"><img src="instagram.jpg" valign="middle"/></a>
+													<a href="https://twitter.com/fitpassindia" target="_blank"><img src="twitter.jpg" valign="middle"/></a>
+												</div>
+											</td>
+										</tr>
+                                    </table>
+									
+									<!-- SITE LINK -->
+                                    <table cellpadding="0" cellspacing="0" border="0" width="33%" align="left" class="responsive-table">
+                                         <tr>
+											<td style="font-size: 11px; font-family: arial; text-align: center; color: #444; padding: 20px 0 0 0;" class="site-link">
+												<a href="http://fitpass.co.in/" target="_blank" style="text-decoration: none">www.fitpass.co.in</a>
+											</td>
+										</tr>
+                                    </table>
+									
+									<!-- SITE CONTACT -->
+                                    <table cellpadding="0" cellspacing="0" border="0" width="33%" align="left" class="responsive-table">
+                                         <tr>
+											<td style="font-size: 11px; color: #444; float: right; font-family: arial; text-align: right; padding: 20px 20px 20px 0;" class="site-contact">
+												Email us at: info@fitpass.co.in<br/>011-46061468
+												
+											</td>
+										</tr>
+                                    </table>
+									
+                                </td>								
+                            </tr>
+                        </table>
+                    </td>
+                </tr>	
+			</table>
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>
